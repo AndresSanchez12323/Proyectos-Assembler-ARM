@@ -25,3 +25,5 @@ Este repositorio agrupa ejercicios en ensamblador ARMv6. Cada proyecto tiene su 
 - El codigo esta pensado para ARMv6 y entornos basicos.
 - Los comandos de compilacion pueden variar segun el toolchain.
 - Para pruebas se uso QEMU emulando un entorno Raspberry Pi.
+
+##Hecho por Edwin Andrés Sánchez Orozco 2025-2026
