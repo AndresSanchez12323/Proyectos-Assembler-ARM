@@ -28,4 +28,4 @@ Este repositorio agrupa ejercicios en ensamblador ARMv6. Cada proyecto tiene su 
 
 ---
 
-##Hecho por Edwin Andrés Sánchez Orozco 2025-2026
+## Hecho por Edwin Andrés Sánchez Orozco 2025-2026
